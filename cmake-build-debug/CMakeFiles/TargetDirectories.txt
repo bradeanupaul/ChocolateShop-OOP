@@ -1,0 +1,3 @@
+C:/Users/paulb/Desktop/OOP Ciocolata/cmake-build-debug/CMakeFiles/OOP_Ciocolata.dir
+C:/Users/paulb/Desktop/OOP Ciocolata/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paulb/Desktop/OOP Ciocolata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
